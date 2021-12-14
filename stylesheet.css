@@ -23,4 +23,9 @@ h6{
   color:white;
 }
 .toolbar{
+  border: 5px outset white;
   background-color:#2b2a27;
+  text-align: center;
+}
+  
+
