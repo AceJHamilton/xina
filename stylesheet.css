@@ -1,3 +1,13 @@
+.toolbar{
+  border: 5px outset black;
+  background-color:#2b2a27;
+  text-align: left;
+}
+.content{
+  border: 5px outset black;
+  background-color:#2b2a27;
+  text-align: center;
+}
 body{
   background-color:#403e3a;
 }
@@ -22,10 +32,6 @@ h5{
 h6{
   color:white;
 }
-.toolbar{
-  border: 5px outset black;
-  background-color:#2b2a27;
-  text-align: left;
-}
+  
   
 
