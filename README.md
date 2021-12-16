@@ -1,4 +1,4 @@
-# xina
-Xina I.P. tool
-
-If you're looking for the software, this is the wrong repository. This one is for the website.
+##XINA IP TOOL
+###### notice:
+Xina is a information gathering tool. If you do something malicious with the information gathered by this program, I am **NOT** responsible for damages.
+[^1]: boxdev0.github.io/xina
