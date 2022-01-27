@@ -1,37 +1,37 @@
 /* general divider box */
-.content{
+.content {
   background-color: #2b2a27;
   border: 5px outset black;
   border-radius: 15px;
   text-align: center;
 }
 /* columns for download images */
-.downloads {
+.column {
   column-count: 3;
   column-gap: 90px;
 }
-body{
+body {
   background-color:#403e3a;
   font-family: "Lucida Console", "Courier New", monospace;
 }
-p{
+p {
   color:white;
 }
-h1{
+h1 {
   color:white;
 }
-h2{
+h2 {
   color:white;
 }
-h3{
+h3 {
   color:white;
 }
-h4{
+h4 {
   color:white;
 }
-h5{
+h5 {
   color:white;
 }
-h6{
+h6 {
   color:white;
 }
