@@ -3,23 +3,13 @@
   width: 33.33%;
   padding: 5px;
 }
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-.toolbar{
-  border: 5px outset black;
-  background-color:#2b2a27;
-  text-align: left;
-}
+/* general divider box */
 .content{
   border: 5px outset black;
   background-color:#2b2a27;
   text-align: center;
 }
+/* columns for download images */
 .downloads {
   column-count: 3;
   column-gap: 40px;
