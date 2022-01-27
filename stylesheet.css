@@ -20,6 +20,10 @@
   background-color:#2b2a27;
   text-align: center;
 }
+.downloads {
+  column-count: 3;
+  column-gap: 40px;
+}
 body{
   background-color:#403e3a;
 }
