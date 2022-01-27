@@ -8,7 +8,7 @@
 /* columns for download images */
 .column {
   column-count: 3;
-  column-gap: 90px;
+  column-gap: 30px;
 }
 body {
   background-color:#403e3a;
