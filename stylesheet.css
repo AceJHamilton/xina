@@ -1,12 +1,8 @@
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
 /* general divider box */
 .content{
+  background-color: #2b2a27;
   border: 5px outset black;
-  background-color:#2b2a27;
+  border-radius: 15px;
   text-align: center;
 }
 /* columns for download images */
@@ -16,6 +12,7 @@
 }
 body{
   background-color:#403e3a;
+  font-family: "Lucida Console", "Courier New", monospace;
 }
 p{
   color:white;
